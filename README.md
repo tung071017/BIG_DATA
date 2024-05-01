@@ -63,3 +63,5 @@ II. Không có -> NA
      b. 2) Điền: df.na.fill(value)
      c. 3) Tách: -> lọc
 ![320717445-0928a391-8046-475b-8fb1-7a3e74e88cae](https://github.com/tung071017/BIG_DATA/assets/138083316/d2b9e509-bfde-4911-b136-afd532fba1c5)
+
+https://github.com/awinml/amex-default-classification/blob/main/amex-eda.ipynb
